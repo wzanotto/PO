@@ -1,0 +1,61 @@
+**************** ETAP 1 ****************
+1. Toyota    Yaris     1996
+2. Ford      Focus     2010
+3. Audi      A1        2010
+4. Toyota    Auris     2000
+5. Audi      R8        2006
+6. Mazda     6         2014
+7. Mazda     Biante    2015
+8. Ford      Fiesta    1976
+9. Toyota    Auris     2010
+10. Honda     Civic     2014
+11. Honda     Accord    2000
+12. Honda     City      1990
+13. Honda     Civic     1980
+14. Mazda     BT-50     2010
+15. Toyota    Auris     2006
+16. Ford      Fiesta    2012
+17. Mazda     Verisa    2010
+18. Audi      R8        2013
+19. Ford      Focus     1998
+20. Toyota    Yaris     2004
+
+**************** ETAP 2 ****************
+
+Samochody po poprawie:
+1. Toyota    Yaris     1997
+2. Ford      Focus     2010
+3. Audi      A1        2010
+4. Toyota    Auris     2001
+5. Audi      R8        2006
+6. Mazda     6         2014
+7. Mazda     Biante    2015
+8. Ford      Fiesta    1976
+9. Toyota    Auris     2011
+10. Honda     Civic     2014
+11. Honda     Accord    2000
+12. Honda     City      1990
+13. Honda     Civic     1980
+14. Mazda     BT-50     2010
+15. Toyota    Auris     2007
+16. Ford      Fiesta    2012
+17. Mazda     Verisa    2010
+18. Audi      R8        2013
+19. Ford      Focus     1998
+20. Toyota    Yaris     2005
+
+**************** ETAP 3 ****************
+Audi A1: 2010
+Audi R8: 2006, 2013
+Ford Fiesta: 1976, 2012
+Ford Focus: 1998, 2010
+Honda Accord: 2000
+Honda City: 1990
+Honda Civic: 1980, 2014
+Mazda 6: 2014
+Mazda BT-50: 2010
+Mazda Biante: 2015
+Mazda Verisa: 2010
+Toyota Auris: 2001, 2007, 2011
+Toyota Yaris: 1997, 2005
+Press any key to continue . . .

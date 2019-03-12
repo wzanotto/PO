@@ -1,0 +1,115 @@
+---------- ETAP 1 ----------
+P0:
+
+P1:
+ahvha
+ahvha
+ahvha
+ahvha
+
+P2:
+phqg
+hume
+ayln
+lfdx
+
+P3:
+zkllko
+zkllko
+
+
+---------- ETAP 2 ----------
+P4:
+zkllko
+zkllko
+
+P5:
+zkllko
+zkllko
+
+
+---------- ETAP 3 ----------
+Ile 'a' w P1: 8 (powinno byc: 8)
+Ile 'v' w P4: 0 (powinno byc: 0)
+Ile 'z' w P5: 2 (powinno byc: 2)
+
+P1:
+ahvha
+ahvha
+ahvha
+ahvha
+
+Zamiana 'a' na 'v': 8 (powinno byc: 8)
+P1:
+vhvhv
+vhvhv
+vhvhv
+vhvhv
+
+P2:
+phqg
+hume
+ayln
+lfdx
+
+Zamiana 'z' na 'o': 0 (powinno byc: 0)
+P2:
+phqg
+hume
+ayln
+lfdx
+
+---------- ETAP 4 ----------
+Domyslny znak: x (powinno byc 'x')
+P6:
+xxx
+xxx
+xxx
+
+Domyslny znak: o (powinno byc 'o')
+P7:
+oo
+oo
+
+
+---------- ETAP 5 ----------
+1 (powinno byc 1)
+1 (powinno byc 1)
+0 (powinno byc 0)
+P1:
+vhvhv
+vhvhv
+vhvhv
+vhvhv
+
+Palindromy z P1:
+vhvhv
+vhvhv
+vhvhv
+vhvhv
+
+P3:
+zkllko
+zkllko
+
+Palindromy z P3:
+
+P3:
+zkllkz
+zkllkz
+
+Palindromy z P3:
+zkllkz
+zkllkz
+
+P2:
+phqg
+huuh
+ayln
+lfdx
+
+Palindromy z P2:
+huuh
+
+KONIEC
+Press any key to continue . . .

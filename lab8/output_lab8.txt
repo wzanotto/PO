@@ -1,0 +1,66 @@
+********** etap 1 **********
+Tworzy sie trojkat o bokach: 8, 5, 5. To trojkat rownoramienny.
+Tworzy sie trojkat o bokach: 6, 6, 6. To trojkat rownoramienny.
+To trojkat rownoboczny.
+Tworzy sie trojkat o bokach: 4, 3, 5. To trojkat prostokatny.
+Tworzy sie trojkat o bokach: 5.5, 8.3, 8.3. To trojkat rownoramienny.
+Tworzy sie trojkat o bokach: 6, 8, 10. To trojkat prostokatny.
+Tworzy sie trojkat o bokach: 3.33, 3.33, 3.33. To trojkat rownoramienny.
+To trojkat rownoboczny.
+Tworzy sie trojkat o bokach: 0, 0, 0. To trojkat rownoramienny.
+
+********** etap 2 **********
+Trojkat nr 1. Trojkat rownoramienny nr 1.
+Trojkat nr 2. Trojkat rownoramienny nr 2.
+Trojkat rownoboczny nr 1.
+Trojkat nr 3. Trojkat prostokatny nr 1.
+Trojkat nr 4. Trojkat rownoramienny nr 3.
+Trojkat nr 5. Trojkat prostokatny nr 2.
+Trojkat nr 6. Trojkat rownoramienny nr 4.
+Trojkat rownoboczny nr 2.
+Trojkat nr 7. Trojkat rownoramienny nr 5.
+
+********** etap 4 **********
+Wysokosci:
+3
+5.19615
+3
+7.83119
+8
+2.88386
+0
+
+Pola:
+12
+15.5885
+6
+21.5358
+24
+4.80163
+0
+
+Obwody:
+18
+18
+12
+22.1
+24
+9.99
+0
+
+********** etap 5 **********
+Promien okregu wpisanego i opisanego na trojkacie rownobocznym:
+1.73205 / 3.4641
+0.961288 / 1.92258
+
+********** etap 3 **********
+Znika trojkat rownoramienny nr 1. Byl to trojkat nr 1.
+Znika trojkat rownoboczny nr 1. Znika trojkat rownoramienny nr 2. Byl to trojkat
+ nr 2.
+Znika trojkat prostokatny nr 1. Byl to trojkat nr 3.
+Znika trojkat rownoramienny nr 3. Byl to trojkat nr 4.
+Znika trojkat prostokatny nr 2. Byl to trojkat nr 5.
+Znika trojkat rownoboczny nr 2. Znika trojkat rownoramienny nr 4. Byl to trojkat
+ nr 6.
+Znika trojkat rownoramienny nr 5. Byl to trojkat nr 7.
+Press any key to continue . . .
